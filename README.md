@@ -131,9 +131,9 @@ Our preprocessing pipeline (`seq2seq implementation/prepare_csv_features.py`):
 python "seq2seq implementation/train_hourly_with_embeddings.py" \
   --csv formatted_features.csv \
   --epochs 30 \
-  --batch-size 1024 \
+  --batch-size 2048 \
   --window-size 168 --horizon 48 \
-  --hidden-size 384 --layers 3 --dropout 0.2 \
+  --hidden-size 512 --layers 3 --dropout 0.2 \
   --teacher-forcing 0.3 --group-emb-dim 16
 ```
 
