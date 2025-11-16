@@ -1,0 +1,315 @@
+name,english_name,operator,power,source,method,wikidata_id,latitude,longitude,municipality,county,country
+Lestijärven tuulivoimapuisto,,OX2,455 MW,wind,wind_turbine,Q123300677,,,,,
+Pjelaxin tuulivoimapuisto,Pjelax Wind Farm,Fortum; Helen,380 MW,wind,wind_turbine,Q123484622,62.3824,21.48161,Närpes,Ostrobothnia,Finland
+Lappfjärdin tuulivoimapuisto,Lappfjärd Wind Farm,Wind Farm Lappfjärd,242 MW,wind,wind_turbine,Q123469345,62.18938,21.5553,Kristinestad,Ostrobothnia,Finland
+Imatran vesivoimalaitos,Imatra hydro-electric power plant,Fortum,192 MW,hydro,run-of-the-river,Q11864761,61.1668975,28.7744701,Imatra,South Karelia,Finland
+Petäjäskosken voimalaitos,,Kemijoki Oy,182 MW,hydro,,Q11887859,66.2721,25.3361,Lappland,Regional State Administrative Agency for Lapland,Finland
+Pirttikosken tunnelivoimalaitos,,Kemijoki Oy,152 MW,hydro,run-of-the-river,Q11888266,66.3403,27.1522,Rovaniemi,Lappland,Finland
+Leipiön tuulivoimapuisto III,,St1 Nordic,151 MW,wind,,Q126042719,,,,,
+Pyhäkosken vesivoimalaitos,,Fortum,147 MW,hydro,run-of-the-river,Q11889254,64.8464,26.039830555,Muhos,North Ostrobothnia,Finland
+Haapaniemen voimalaitos,,Kuopion Energia,145 MW,biomass,,Q5396398,62.879166666,27.675555555,Kuopio,North Savo,Finland
+Seitakorvan vesivoimalaitos,,Kemijoki Oy,144 MW,hydro,run-of-the-river,Q5394629,66.4053,27.3296,Kemijärvi,Lappland,Finland
+Louhukankaan tuulivoimapuisto,,Ilmatar Alajärvi–Louhukangas,143 MW,wind,wind_turbine,Q124418955,62.99697,24.13486,Alajärvi,South Ostrobothnia,Finland
+Taivalkosken vesivoimalaitos,,Kemijoki Oy,133 MW,hydro,run-of-the-river,Q11896084,65.9307,24.7141,Keminmaa,Lappland,Finland
+Isohaaran vesivoimalaitos,,Pohjolan Voima,128 MW,hydro,run-of-the-river,Q18659395,65.7928,24.5456,Keminmaa,Lapland,Finland
+Isonevan tuulivoimapuisto,,,126 MW,wind,,,,,,,
+Kaukaan Voima (KauVo),Kaukaan Voima (KauVo) Kaukas Mill Bioenergy Power Plant,,125 MW,biomass,,,,,,,
+Ossauskosken voimalaitos,,Kemijoki Oy,124 MW,hydro,,Q11994324,66.155833,25.125556,Tervola,Lappland,Finland
+Paskoonharjun tuulivoimapuisto,,EPV Tuulivoima Oy,124 MW,wind,,,,,,,
+Seinäjoen voimalaitos,,Seinäjoen voima,120 MW,biomass,,Q18661929,62.7418,22.8156,Seinäjoki,South Ostrobothnia,Finland
+Toppilan voimalaitos,,Oulun energia,120 MW,biomass,,Q796751,65.0377818,25.4357636,Oulu,North Ostrobothnia,Finland
+Metsälän tuulivoimapuisto,Metsälä Wind Farm,EPV Tuulivoima,117 MW,wind,,Q123458351,62.07758,21.54082,Kristinestad,Ostrobothnia,Finland
+Harjavallan vesivoimalaitos,,Länsi-Suomen Voima,105 MW,hydro,,Q11861542,61.3375,22.113611,Nakkila,Satakunta,Finland
+Norrskogens vindkraftspark,,EPV Tuulivoima,102 MW,wind,wind_turbine,Q124476323,62.5813,21.32091,Närpes,Ostrobothnia,Finland
+Valajaskosken vesivoimalaitos,,Kemijoki Oy,101 MW,hydro,run-of-the-river,Q12008820,66.424,25.53966667,Rovaniemi,Lappland,Finland
+Vanttauskosken vesivoimalaitos,,Kemijoki Oy,95 MW,hydro,,Q19394279,66.36875,26.686444444,Rovaniemi,Lappland,Finland
+Kalajoen Mustilankankaan tuulipuisto,,,92 MW,wind,,,,,,,
+Oltavan tuulivoimapuisto,,,91 MW,wind,,,,,,,
+Kalax vindkraftspark,Kalax Wind Farm,Fortum,90 MW,wind,wind_turbine,Q124528018,62.5254,21.28018,Närpes,Ostrobothnia,Finland
+Oosinselkä,,Suomen Hyötytuuli Oy,90 MW,wind,wind_turbine,,,,,,
+"Kristiinankaupunki, Lakiakangas III",,Helen/CPC Finland Oy,86 MW,wind,,,,,,,
+Nuojuan voimalaitos,,Fortum,85 MW,hydro,run-of-the-river,Q19384090,64.577388888,26.713,Vaala,North Ostrobothnia,Finland
+Pamilon vesivoimalaitos,,Vattenfall Oy,85 MW,hydro,water-storage,,,,,,
+Alajoki-Peuralinnan tuulipuisto,,Suomen Hyötytuuli,84 MW,wind,wind_turbine,Q124734354,63.13317,24.38215,Perho,Central Finland,Finland
+Hedet,,,81 MW,wind,,,,,,,
+Möksyn tuulivoimapuisto,,,78 MW,wind,,,,,,,
+Tohkoja,,wpd Finland Oy,73 MW,wind,,,,,,,
+Mastokankaan tuulivoimapuisto,,,68 MW,wind,,,,,,,
+Melon vesivoimala,,Pohjolan voima,68 MW,hydro,,Q14835059,61.4632,23.43701667,Nokia,Pirkanmaa,Finland
+Rauman Biovoiman voimalaitos,,Rauman biovoima,65 MW,biomass,,,,,,,
+Tainionkosken voimalaitos,Tainionkoski Hydropower Plant,Fortum,65 MW,hydro,run-of-the-river,Q11896016,61.21055603,28.78527832,Imatra,South Karelia,Finland
+Raasakan voimalaitos,,Pohjolan Voima,64 MW,hydro,run-of-the-river,Q11889609,65.333888888,25.411944444,Ii,North Ostrobothnia,Finland
+Helen Aurinkopuisto Kalanti Oy alue 2,,,59 MW,solar,photovoltaic,,,,,,
+Kuuronkallion tuulivoimapuisto,,,59 MW,wind,,,,,,,
+Utasen voimalaitos,,Fortum,58 MW,hydro,run-of-the-river,Q12008628,64.736388888,26.478055555,Utajärvi,North Ostrobothnia,Finland
+Parhalahden tuulivoimapuisto,,,57 MW,wind,,,,,,,
+Santavuoren tuulivoimapuisto,,EPV Tuulivoima,56 MW,wind,,,,,,,
+Västervikin tuulivoimapuisto,,Ilmatar,56 MW,wind,,,,,,,
+Jylhämän voimalaitos,,Fortum Oyj,55 MW,hydro,run-of-the-river,Q19376635,64.572222,26.781944,Vaala,North Ostrobothnia,Finland
+Torkkolan tuulivoimapuisto,,EPV Tuulivoima,53 MW,wind,,Q124958588,63.04006,22.00037,Vaasa,Ostrobothnia,Finland
+Kuolavaara-Keulakkopään tuulivoimapuisto,Kuolavaara-Keulakkopää Wind Farm,Kuolavaara-Keulakkopään Tuulipuisto Oy,51 MW,wind,wind_turbine,,,,,,
+Pällin voimalaitos,,Fortum,51 MW,hydro,run-of-the-river,Q11889423,64.843611111,26.194722222,Muhos,North Ostrobothnia,Finland
+"Isojoki, Lakiakangas II",,CPC  Oy,50 MW,wind,,,,,,,
+Joensuun voimalaitos,,Savon voima,50 MW,biomass,,Q18659499,62.593,29.837,Joensuu,North Karelia,Finland
+Sarvankankaan tuulivoimapuisto,,,48.00 MW,wind,,,,,,,
+Montan voimalaitos,,Fortum Oyj,47.00 MW,hydro,run-of-the-river,Q11883198,64.820833333,26.014444444,Muhos,North Ostrobothnia,Finland
+Hallakankaan tuulivoimapuisto,,,45.60 MW,wind,,,,,,,
+Aittokosken voimalaitos,,Fortum,45.00 MW,hydro,run-of-the-river,Q11850248,64.83597,28.852,Suomussalmi,Kainuu,Finland
+Kolsin voimalaitos,,,45.00 MW,hydro,run-of-the-river,Q11872277,61.273333,22.355278,Kokemäki,Satakunta,Finland
+Leipiön tuulivoimapuisto II,,St1 Nordic,45.00 MW,wind,wind_turbine,Q126042719,,,,,
+Nivalan Kaukolämpö,,Nivalan Kaukolämpö Oy,45.00 MW,biomass,combustion,,,,,,
+Rustarin tuulipuisto,Rustari Wind Farm,OX2,44.00 MW,wind,wind_turbine,,,,,,
+Pahkakosken voimalaitos,,Pohjolan Voima,42.40 MW,hydro,,Q18661156,65.3575,26.03805556,Ii,North Ostrobothnia,Finland
+Ajoksen tuulivoimapuisto,Ajos Wind Farm,OX2,42.00 MW,wind,wind_turbine,Q11870878,65.66274,24.54185,Kemi,Lappland,Finland
+Maaselänkankaan tuulipuisto,,wpd Suomi Oy,41.30 MW,wind,,,,,,,
+Helen Aurinkopuisto Kalanti Oy alue 1,,,41.00 MW,solar,photovoltaic,,,,,,
+Porttipahdan voimalaitos,,Kemijoki Oy,40.50 MW,hydro,water-storage,,,,,,
+Helen Aurinkopuisto Kalanti Oy alue 6,,,40.00 MW,solar,photovoltaic,,,,,,
+Juurakko Hybridipuisto - tuulipuisto,,,40.00 MW,wind,,,,,,,
+Merikosken voimalaitos,,Oulun Energia,40.00 MW,hydro,run-of-the-river,Q9252547,65.02277778,25.47333333,Oulu,North Ostrobothnia,Finland
+Seitenoikean vesivoimalaitos,,Fortum,39.00 MW,hydro,water-storage,Q20736805,64.59175,28.417671,Ristijärvi,Kainuu,Finland
+Maalismaan voimalaitos,,Pohjolan Voima,38.60 MW,hydro,,Q18660702,65.310833333,25.693333333,Oulu,North Ostrobothnia,Finland
+Simo Halmekangas Tuuli,,Exilion Tuuli ky,37.95 MW,wind,,,,,,,
+Kierikin voimalaitos,,Pohjolan Voima,37.50 MW,hydro,run-of-the-river,Q18660013,65.3575,26.037777777,Oulu,North Ostrobothnia,Finland
+Jokelan tuulipuisto,,Suomen Hyötytuuli Oy,36.00 MW,wind,,,,,,,
+Kitkiäisvaaran tuulivoimapuisto,,St1,36.00 MW,wind,wind_turbine,Q124788688,66.14036,24.0529,Tornio,Lappland,Finland
+Annankankaan tuulivoimapuisto,,,35.00 MW,wind,,,,,,,
+Nikkarinkaarron tuulivoimapuisto,,,35.00 MW,wind,,,,,,,
+Kopsa II,,,33.00 MW,wind,,,,,,,
+Haapakosken voimalaitos,,Pohjolan Voima,32.60 MW,hydro,,Q18658792,65.329444444,26.204722222,Oulu,North Ostrobothnia,Finland
+Kaltimon voimalaitos,,UPM-Kymmene,32.00 MW,hydro,,,,,,,
+Suosiolan voimalaitos,,Neve,32.00 MW,biomass,combustion,,,,,,
+Kivivaara-Peuravaaran tuulivoimapuisto 1,,Taaleri Energia,30.00 MW,wind,wind_turbine,Q128504501,64.68608,28.65573,Hyrynsalmi,Kainuu,Finland
+Pajukoski I,,,30.00 MW,wind,,,,,,,
+Ribäcken vindpark,Ribäcken wind farm,Ribäcken Vindpark,30.00 MW,wind,wind_turbine,,,,,,
+Varevaaran tuulivoimapuisto,Varevaara Wind Farm,Tervola Varevaara Tuuli,30.00 MW,wind,wind_turbine,Q124334592,66.14191,24.87778,Tervola,Lappland,Finland
+[unnamed],,Kokkolan Energia,30.00 MW,biomass,,,,,,,
+Mörknässkogens vindkraftspark,,OX2 Finland,29.50 MW,wind,wind_turbine,Q126327334,63.27887,22.51336,Vörå,Ostrobothnia,Finland
+Kuusankosken voimalaitos,,UPM,29.40 MW,hydro,run-of-the-river,Q18660337,60.907222,26.648889,Kouvola,Kymenlaakso,Finland
+Storbackens vindkraftspark,,OX2 Finland,29.40 MW,wind,wind_turbine,Q131164657,63.29761,22.46322,Vörå,Ostrobothnia,Finland
+Helen Aurinkopuisto Kalanti Oy alue 3,,,28.00 MW,solar,photovoltaic,,,,,,
+Ahvenkosken vesivoimalaitos,,Helen Oy,27.00 MW,hydro,run-of-the-river,Q11850002,60.493972,26.45125,Pyhtää,Uusimaa,Finland
+Kurkiaskan voimalaitos,,Kemijoki Oy,27.00 MW,hydro,water-storage,,,,,,
+Limakon tuulivoimapuisto,,Taaleri Energia,27.00 MW,wind,wind_turbine,Q129254527,63.21772,24.48551,Perho,Central Ostrobothnia,Finland
+Mankalan voimalaitos,,Helen,27.00 MW,hydro,run-of-the-river,Q11880762,60.92633333,26.26916667,Iitti,Päijät-Häme,Finland
+Ratiperän tuulipuisto,,ABO Wind Oy,27.00 MW,wind,,,,,,,
+Siikainen Jäneskeidas,,Gigawatti Oy,26.00 MW,wind,,,,,,,
+Jumiskon voimalaitos,,Pohjolan Voima Oyj,25.80 MW,hydro,water-pumped-storage,Q18659554,66.51,27.78,Kemijärvi,Lappland,Finland
+Kokkosnivan voimalaitos,,Kemijoki Oy,25.00 MW,hydro,water-storage,,,,,,
+Kantin tuulivoimapuisto,,Kantin Tuulipuisto Ky,24.00 MW,wind,,,,,,,
+Vartinojan tuulivoimapuisto,,,24.00 MW,wind,,,,,,,
+Leppikosken voimalaitos,,Fortum,23.00 MW,hydro,run-of-the-river,Q18682168,64.4554468,27.8869696,Paltamo,Kainuu,Finland
+Jouttikallion tuulivoimapuisto,Jouttikallio Wind Farm,OX2,21.00 MW,wind,,,,,,,
+Muukon tuulivoimapuisto,,,21.00 MW,wind,,,,,,,
+Pirttiselän tuulivoimapuisto,,,21.00 MW,wind,,,,,,,
+Vajukosken voimalaitos,,Kemijoki Oy,21.00 MW,hydro,water-storage,Q12008811,67.695833,26.804167,Sodankylä,Lappland,Finland
+Helen Aurinkopuisto Kalanti Oy alue 5,,,20.00 MW,solar,photovoltaic,,,,,,
+"Vesivoimalaitos, Anjala",,,20.00 MW,hydro,run-of-the-river,Q25454217,60.69771617,26.81365768,Kouvola,Kymenlaakso,Finland
+[unnamed],,Kokkolan Energia,20.00 MW,biomass,,,,,,,
+Hirvinevan tuulivoimapuisto,,,19.00 MW,wind,,,,,,,
+Kuurnan voimala,Kuurna Power Plant; Kuurna Hydro Power Plant,PKS,18.00 MW,hydro,,,,,,,
+Leipiön tuulivoimapuisto I,,Simo Leipiö Tuuli,18.00 MW,wind,wind_turbine,Q123476836,65.67345,25.00719,Simo,Lappland,Finland
+Lieksankoski,Lieksankoski hydro power plant,Kemijoki,18.00 MW,hydro,run-of-the-river,,,,,,
+Keltin voimalaitos,,UPM,17.00 MW,hydro,run-of-the-river,Q20736983,60.8737519,26.6149355,Kouvola,Kymenlaakso,Finland
+Tyrvään voimalaitos,,,16.80 MW,hydro,water-storage,Q18662517,61.328866,22.845876,Sastamala,Pirkanmaa,Finland
+Äetsän voimalaitos,,UPM Energy Oy,16.00 MW,hydro,run-of-the-river,Q11903209,61.27871,22.696466,Sastamala,Pirkanmaa,Finland
+Ämmän vesivoimalaitos,,Fortum,16.00 MW,hydro,run-of-the-river,Q18682942,64.879751,28.911778,Suomussalmi,Kainuu,Finland
+Pankakoski,Pankakoski hydro power plant,Kemijoki,15.60 MW,hydro,run-of-the-river,,,,,,
+Puhdistamontien lämpölaitos,,Vapo Oy,15.40 MW,biomass,combustion,,,,,,
+Kurittukosken voimalaitos,,Kemijoki Oy,15.00 MW,hydro,run-of-the-river,Q27069738,,,,,
+Båtskärs vindkraftspark,,Leovind,14.00 MW,wind,,Q124044221,59.96368,19.95466,Lemland,Åland,Finland
+Kauttuan voimalaitos,,Adven,14.00 MW,biomass,,,,,,,
+Kallioisen voimalaitos,,,13.50 MW,hydro,,Q5484823,64.093725,28.844271,Sotkamo,Kainuu,Finland
+Juurakko Hybridipuisto - aurinkopuisto,,,13.00 MW,solar,photovoltaic,,,,,,
+Permantokosken vesivoimalaitos,,Kemijoki Oy,13.00 MW,hydro,run-of-the-river,Q18661261,66.4924147,26.1284877,Rovaniemi,Lappland,Finland
+Katerman voimalaitos,,,12.50 MW,hydro,,Q18659903,,,,,
+Hämeenkyrön biovoimalaitos,,,12.00 MW,biomass,,,,,,,
+Kuljunniemi I,,,12.00 MW,wind,,,,,,,
+Helen Aurinkopuisto Kalanti Oy alue 6,,,11.00 MW,solar,photovoltaic,,,,,,
+Kelukosken voimalaitos,,Kemijoki Oy,11.00 MW,hydro,run-of-the-river,Q19377064,67.45514595,26.59536915,Sodankylä,Lappland,Finland
+Matarakoski,,Kemijoki Oy,11.00 MW,hydro,water-storage,,,,,,
+Portimokosken voimalaitos,,,10.50 MW,hydro,,Q65242743,66.37866,23.78408,Ylitornio,Lappland,Finland
+Korkeakosken voimalaitos,,Kolsin Voima Oy,10.00 MW,hydro,,Q11872611,60.53127778,26.90802778,Kotka,Kymenlaakso,Finland
+Niittysmäki-Konkanmäki,,,10.00 MW,wind,,,,,,,
+Salo Märynummi,,Exilion Tuuli ky,10.00 MW,wind,,,,,,,
+Tiprusniemen lämpövoimalaitos,,Savon Voima Oy,10.00 MW,biomass,combustion,,,,,,
+Summan tuulivoimapuisto,,,9.00 MW,wind,,Q124255372,60.54749,27.17429,Hamina,Kymenlaakso,Finland
+OSS Ruotsinoja,,,8.80 MW,solar,photovoltaic,,,,,,
+Keskikosken voimalaitos,,Tampereen Energia,8.70 MW,hydro,,Q69644030,61.500396897,23.763158207,Tampere,Pirkanmaa,Finland
+Biolämpökeskus,,Alajärven Lämpö Oy,8.00 MW,biomass,combustion,,,,,,
+Helen Aurinkopuisto Kalanti Oy alue 6,,,8.00 MW,solar,photovoltaic,,,,,,
+Hirvikosken voimalaitos,,Vattenfall,8.00 MW,hydro,water-storage,,,,,,
+Kaitfors kraftverk,,Herrfors,7.50 MW,hydro,water-storage,Q11869037,63.69421,23.40128,Kronoby,Ostrobothnia,Finland
+Hietamankosken voimalaitos,,Vattenfall Oy,7.00 MW,hydro,,,,,,,
+Mussalon tuulivoimapuisto,,,7.00 MW,wind,,Q124666005,60.42761,26.8873,Kotka,Kymenlaakso,Finland
+Kirkniemen aurinkopuisto,,Helen,6.80 MW,solar,photovoltaic,,,,,,
+Koivukosken voimalaitos,,Kainuun Voima Oy,6.50 MW,hydro,water-storage,Q18660114,64.226667,27.735556,Kajaani,Kainuu,Finland
+Hinkuan voimalaitos,,Vattenfall,6.30 MW,hydro,water-storage,,,,,,
+Atrian Aurinko,Atria Oyj Solar Power Plant Aurinko,Atria Oyj,6.00 MW,solar,photovoltaic,,,,,,
+Elkon tuulivoimala,,,6.00 MW,wind,,,,,,,
+Hilmon voimalaitos,,Vattenfall Oy,6.00 MW,hydro,,Q41776578,,,,,
+Högsåra,,,6.00 MW,wind,,,,,,,
+Kyrkösjärven voimalaitos,,Seinäjoen Energia Oy,6.00 MW,hydro,water-storage,,,,,,
+Nummelan lämpölaitos,,Adven Oy,6.00 MW,biomass,combustion,,,,,,
+Pitkämön voimalaitos,,Koskienergia Koskivoima Oy,6.00 MW,hydro,water-storage,Q20737042,,,,,
+Riutukari,,,6.00 MW,wind,,,,,,,
+Kiltua,,,5.60 MW,hydro,run-of-the-river,Q18682007,,,,,
+Juvan aurinkovoimapuisto,,Solarigo Systems / Lumme,5.20 MW,solar,photovoltaic,,,,,,
+Ämmäkosken voimalaitos,,Kainuun Voima Oy,4.90 MW,hydro,water-storage,Q5490165,64.229682,27.730264,Kajaani,Kainuu,Finland
+Killinkosken voimalaitos,,Killin Voima,4.50 MW,hydro,run-of-the-river,,,,,,
+Stadsforsens kraftverk,,Nykarleby Kraftverk Ab,4.50 MW,hydro,run-of-the-river,,,,,,
+Huruskosken voimalaitos,,Stora Enso Oyj,4.40 MW,hydro,,,,,,,
+"Yläkosken voimalaitos, Finlayson",,Tampereen Energia,4.40 MW,hydro,,Q80831082,61.502485927,23.759510294,Tampere,Pirkanmaa,Finland
+Alakosken voimalaitos,,,4.00 MW,hydro,,Q81436737,61.496111111,23.764444444,Tampere,Pirkanmaa,Finland
+Klåsarön voimalaitos,,Helen Oy,4.00 MW,hydro,,,,,,,
+Poitzintien kaukolämpölaitos,,Haminan Energia Oy,4.00 MW,biomass,combustion,,,,,,
+Uljuan voimalaitos,,Vattenfall,4.00 MW,hydro,run-of-the-river,Q22681739,,,,,
+Kuhankosken voimalaitos,,,3.40 MW,hydro,water-storage,,,,,,
+"Yläkosken voimalaitos, Tampella",,Tampereen Energia,3.30 MW,hydro,,,,,,,
+Ruskeakosken voimalaitos,,Pohjois-Karjalan Sähkö Oy,3.20 MW,hydro,run-of-the-river,Q11891458,62.42697207,30.44163714,Joensuu,North Karelia,Finland
+Kaaranneskosken voimalaitos,,Tornionlaakson Voima,3.00 MW,hydro,run-of-the-river,Q18681917,66.647,24.4261,Pello,Lappland,Finland
+Verlan voimalaitos,,KSS Energia Oy,3.00 MW,hydro,,,,,,,
+[unnamed],,,2.80 MW,solar,photovoltaic,,,,,,
+Hamarin voimalaitos,,Killin Voima,2.50 MW,hydro,run-of-the-river,,,,,,
+Kattilakosken voimalaitos,,Herrfors,2.30 MW,hydro,run-of-the-river,Q116194298,63.47015,23.30637,Evijärvi,South Ostrobothnia,Finland
+Knutsboda vindkraftpark,,,2.00 MW,wind,,Q124023742,60.07926,20.02431,Lemland,Åland,Finland
+LEMENE aurinkovoimala,,Lempäälän Energia Oy,2.00 MW,solar,photovoltaic,,,,,,
+LEMENE aurinkovoimala,,Lempäälän Energia Oy,2.00 MW,solar,photovoltaic,,,,,,
+Pettböle,,,2.00 MW,wind,,,,,,,
+Kuokkastenkosken vesivoimalaitos,,PKS Tuotanto,1.95 MW,hydro,run-of-the-river,,,,,,
+Koivukosken voimala,,Kolsin Voima Oy,1.90 MW,hydro,run-of-the-river,,,,,,
+Siikakosken voimala,,,1.80 MW,hydro,,,,,,,
+Soilun voimalaitos,,Koskienergia Oy,1.80 MW,hydro,run-of-the-river,,,,,,
+Vääräkosken voimala,,Pohjois-Karjalan Sähkö Oy,1.80 MW,hydro,,Q5398748,62.21437756,30.5008625,Tohmajärvi,North Karelia,Finland
+Kissakosken vesivoimalaitos,,Suur-Savon Sähkö,1.60 MW,hydro,run-of-the-river,,,,,,
+Saarion voimalaitos,,Pohjois-Karjalan Sähkö Oy,1.60 MW,hydro,run-of-the-river,Q5411563,62.24937406,30.49625979,Tohmajärvi,North Karelia,Finland
+Mäntänkosken voimalaitos,,,1.50 MW,hydro,,,,,,,
+[unnamed],,Helen,1.50 MW,solar,photovoltaic,,,,,,
+Björkfors kraftverk,,,1.40 MW,hydro,run-of-the-river,Q116193420,63.52147,23.21039,Pedersöre,Ostrobothnia,Finland
+Vihtakosken voimalaitos,,Pohjois-Karjalan Sähkö O,1.40 MW,hydro,run-of-the-river,Q18662830,62.38236253,30.4626374,Joensuu,North Karelia,Finland
+Juvan voimalaitos,,Koskienergia Oy,1.30 MW,hydro,water-storage,,,,,,
+Askalan vesivoimalaitos,,Koskienergia Oy,1.00 MW,hydro,water-storage,,,,,,
+Juntolankosken voimalaitos,,Koskienergia Oy,1.00 MW,hydro,water-storage,,,,,,
+Kalajärven voimalaitos,Kalajärvi power plant,Seinäjoen Energia Oy,1.00 MW,hydro,water-storage,,,,,,
+Lumparland,,,1.00 MW,wind,,,,,,,
+Kalliomäen tunnelivesivoimalaitos (Päijänne-tunneli),,,830 kW,hydro,,,,,,,
+[unnamed],,,750 kW,solar,photovoltaic,,,,,,
+Mäkelänkosken voimalaitos,,Koskienergia,700 kW,hydro,,,,,,,
+Hourunkosken voimalaitos,,Koskienergia,600 kW,hydro,,,,,,,
+Ala-Utoksen voimalaitos,,Fortum,500 kW,hydro,,Q11850485,64.75083333,26.45166667,Utajärvi,North Ostrobothnia,Finland
+Jolmankosken voimalaitos,,Tornionlaakson Voima,500 kW,hydro,run-of-the-river,,,,,,
+Pirttikosken voimalaitos,,Korpelan Voima,500 kW,hydro,run-of-the-river,Q11888264,63.551538888,23.699469444,Kaustinen,Central Ostrobothnia,Finland
+[unnamed],,,415 kW,solar,photovoltaic,,,,,,
+Huopanankosken voimalaitos,,Koskienergia Oy,300 kW,hydro,run-of-the-river,,,,,,
+Jylhänkosken voimalaitos,,Jylhän sähköosuuskunta,300 kW,hydro,run-of-the-river,,,,,,
+Kannuskosken voimalaitos,,,250 kW,hydro,,Q11869642,60.965278,27.243611,Kouvola,Kymenlaakso,Finland
+Jätekukon aurinkovoimala,,Jätekukko Oy,109 kW,solar,photovoltaic,,,,,,
+Iloharjun aurinkolämpövoimala,,Kuopion Energia Oy,100 kW,solar,thermal,,,,,,
+[unnamed],,,72 kW,solar,photovoltaic,,,,,,
+[unnamed],,,18 kW,solar,photovoltaic,,,,,,
+Ala-Vääräkosken voimalaitos,,,,hydro,,,,,,,
+Alahärmän kaukolämpölaitos,,Kauhavan Kaukolämpö Oy,,biomass,combustion,,,,,,
+Aronkylän lämpölaitos,,Kauhajoen Lämpöhuolto Oy,,biomass,combustion,,,,,,
+Aurinkopuisto,,Sallila Energia Oy,,solar,,,,,,,
+Aurinkovoimala,,,,solar,photovoltaic,,,,,,
+Biolämpölaitos,,Suur-Savon Sähkö,,biomass,combustion,,,,,,
+Ediskoski,,Helen,,hydro,,,,,,,
+Forssan vesivoimala,,,,hydro,,,,,,,
+Fortum Kivenlahden lämpölaitos,,Fortum,,biomass,combustion,,,,,,
+Hervannan hakelämpölaitos,,Tampereen Energia,,biomass,combustion,,,,,,
+Hiirikosken Energia Oy,,,,hydro,,,,,,,
+Hovinsaaren voimalaitos,,Kotkan Energia,,biomass,,,,,,,
+Ikaalisten aurinkopuisto,,,,solar,photovoltaic,,,,,,
+Juotaksen voimalaitos,,Koillislapin sähkö,,hydro,,,,,,,
+Järvenpään voimalaitos,,,,biomass,combustion,,,,,,
+Karsinakosken voimala,,,,hydro,run-of-the-river,,,,,,
+Kauhavan lämpölaitos,,Kauhavan Kaukolämpö,,biomass,combustion,,,,,,
+Kausalan Lämpö OY,,,,biomass,combustion,,,,,,
+Kemiön biolämpölaitos,,Kimitoöns Värme Ab,,biomass,combustion,,,,,,
+Keravan aurinkovoimala,The Kerava Solar Plant,Keravan Energia Oy,,solar,photovoltaic,,,,,,
+Keravan lämpövoimalaitos,,,,biomass,,,,,,,
+Korvensuunkosken voimalaitos,,,,hydro,,,,,,,
+Kotkamills Power Station,,,,biomass,,,,,,,
+Kymijärvi III,,Lahti Energia,,biomass,combustion,,,,,,
+Laukkosken vesivoimala,,Porvoon energia,,hydro,run-of-the-river,,,,,,
+Långnabba wind farm,,,,wind,,Q124062530,60.16026,19.55913,Eckerö,Åland,Finland
+Metsa Äänekoski (Sellu) Bioproduct Mill power station,,,,biomass,,,,,,,
+Miilun lämpökeskus,,Outokummun Energia Oy,,biomass,combustion,,,,,,
+Myllykosken voimala,,,,hydro,run-of-the-river,,,,,,
+Mäntsälän Biovoima Oy,,Mäntsälän Biovoima Oy,,biomass,,,,,,,
+Oksavan voimalaitos,,,,hydro,run-of-the-river,,,,,,
+Onnelan aurinkovoimala,,Kesko Oyj,,solar,photovoltaic,,,,,,
+Oomi Vihreäsaari 1,,,,solar,photovoltaic,,,,,,
+Orapac solkraftverk,,Orapac,,solar,photovoltaic,,,,,,
+Orikedon biolämpökeskus,,Turun Seudun Energiatuotanto Oy,,biomass,combustion,,,,,,
+Pikikujan lämpölaitos,,Kauhajoen Lämpöhuolto Oy,,biomass,combustion,,,,,,
+Porraskosken voimalaitos,,,,hydro,water-storage,,,,,,
+Puntarikosken voimalaitos,,,,hydro,,,,,,,
+Pöyryn voimala,,,,hydro,,,,,,,
+Seepsula 1,,Seepsula oy,,solar,photovoltaic,,,,,,
+Seepsula 2,,Seepsula oy,,solar,photovoltaic,,,,,,
+Sähkötehdas,,Panelian Voima Oy,,hydro,,,,,,,
+Topinojan biokaasulaitos,,Gasum Oy,,biomass,,,,,,,
+UPM Kymi Mill (Kuusankoski PVO) Power Station,,,,biomass,,Q18660336,,,,,
+UPM-Kymmene Wisapower Biomass Power Station,,,,biomass,,,,,,,
+Uimaharju Enocell Mill Power Station,,,,biomass,,,,,,,
+Veikkarin Lämpökeskus,,Hyvinkään Lämpövoima Oy,,biomass,combustion,,,,,,
+Vesikoski,,,,hydro,,,,,,,
+"Vesivoimalaitos, Inkeroinen",,,,hydro,,,,,,,
+Voimala,,,,hydro,,,,,,,
+Vuokkoharjun biolämpölaitos,,,,biomass,,,,,,,
+Vuolenkosken voimalaitos,,,,hydro,run-of-the-river,Q25452515,,,,,
+Vuolteen voimalaitos,,Sallila Energia,,hydro,,,,,,,
+[unnamed],,Savulahden päiväkotikoulu,,solar,photovoltaic,,,,,,
+[unnamed],,Savulahden päiväkotikoulu,,solar,photovoltaic,,,,,,
+[unnamed],,,,wind,wind_turbine,,,,,,
+[unnamed],,,,wind,,,,,,,
+[unnamed],,,,wind,wind_turbine,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
+[unnamed],,Arto Lauri,,solar,photovoltaic,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
+[unnamed],,,,hydro,,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
+[unnamed],Kavo Kajaani Kainuun Voima Oy Power Station,,,biomass,,,,,,,
+[unnamed],Pursiala Power Station,,,biomass,,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
+[unnamed],,,,hydro,,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
+[unnamed],,,,hydro,,,,,,,
+[unnamed],,Helsingin seudun ympäristöpalvelut HSY,,solar,photovoltaic,,,,,,
+[unnamed],,,,hydro,,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
+[unnamed],,Euran Energia Oy,,biomass,,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
+[unnamed],,,,solar,,,,,,,
+[unnamed],,,,hydro,run-of-the-river,,,,,,
+[unnamed],,,,hydro,,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
+[unnamed],,,,solar,,,,,,,
+[unnamed],,,,biomass,,,,,,,
+[unnamed],,,,hydro,,,,,,,
+[unnamed],,,,biomass,anaerobic_digestion,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
+[unnamed],,,,hydro,run-of-the-river,,,,,,
+[unnamed],,,,hydro,,,,,,,
+[unnamed],,,,hydro,,,,,,,
+[unnamed],,,,hydro,,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
+[unnamed],,Kalavapriikki Oy,,solar,photovoltaic,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
+[unnamed],,,,hydro,,,,,,,
+[unnamed],,,,hydro,,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
+[unnamed],,,,solar,photovoltaic,,,,,,
