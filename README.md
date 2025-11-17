@@ -286,7 +286,7 @@ Expected improvements:
 
 - **Framework**: PyTorch for deep learning
 - **Computing Infrastructure**: Google Cloud Platform
-  - **GPUs**: 2x NVIDIA V100 (32GB each) + 2x NVIDIA A100 (40GB each)
+  - **GPUs**: 2x NVIDIA V100 (16GB each) + 2x NVIDIA A100 (40GB each)
   - **Parallel Computing**: Multi-GPU training with distributed data parallelism
   - **Training Optimization**: GPU-accelerated tensor operations, automatic mixed precision (AMP)
 - **Data Processing**: Pandas, NumPy
